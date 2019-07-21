@@ -1,0 +1,25 @@
+.first{
+  max-width: 100%;
+  padding: 40px;
+  
+}
+.belowheader{
+  max-width: 100%;
+  overflow: none;
+  padding:30px;
+  border: 1px solid #ccc;
+}
+.belowheader:hover{
+    border: 1px solid #777;
+}
+a{
+  color: purple;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.this{
+  text-align: center;
+}
